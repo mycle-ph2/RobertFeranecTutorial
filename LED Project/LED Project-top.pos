@@ -1,0 +1,9 @@
+### Footprint positions - created on Mon Jun 23 04:17:18 2025 ###
+### Printed by KiCad version 7.0.6
+## Unit = mm, Angle = deg.
+## Side : top
+# Ref     Val             Package                                              PosX       PosY       Rot  Side
+D1        LED             LED0603                                           46.0000   -52.8875   90.0000  top
+J1        Conn_01x02_Pin  Molex_KK-254_AE-6410-02A_1x02_P2.54mm_Vertical    56.8600   -44.8875  -90.0000  top
+R1        R               R_0805_2012Metric                                 46.0000   -38.5000  -90.0000  top
+## End
