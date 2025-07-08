@@ -16,6 +16,12 @@ This schematic was based on the tutorial by Robert Feranec: [video link](https:/
 ## Schematic
 ![alt text](https://github.com/mycle-ph2/RobertFeranecTutorial/blob/main/LED%20Project/initial_schematic.PNG "Schematic")
 
+## Components List
+* Resistor
+* Diode
+* J1 Connector
+* 3.3V Power Source
+
 ## Things I learned
 * Create a custom symbol for a component
 * Find existing components from a library
